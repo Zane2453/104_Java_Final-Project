@@ -1,4 +1,4 @@
-# Bomb Man in Java
+# Bomberman in Java
 初始頁面:
 > 可以看規則、開啟/關閉音樂及換音樂
 ![start](https://i.imgur.com/dY0Z8Fc.png)  
